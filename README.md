@@ -49,11 +49,7 @@ Skrypt generujący statystyki dotyczące plików tekstowych w podanym katalogu.
 Użycie:
 ./txtFileStats.sh <ścieżka_do_katalogu>
 
-
-
-
-
-
+***
 
 # Bash Scripts
 The repository contains scripts written in the Bash language, which perform various operations on files and directories.
