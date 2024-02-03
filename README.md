@@ -51,6 +51,10 @@ Użycie:
 
 
 
+
+
+
+
 # Bash Scripts
 The repository contains scripts written in the Bash language, which perform various operations on files and directories.
 
